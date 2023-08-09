@@ -8,7 +8,6 @@ The terraform code is basic and creates resource groups but you will be able to 
 
 ## Prerequisites
 
-
 - Install kubectl
 - Install flux cli
 
